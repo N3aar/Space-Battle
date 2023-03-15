@@ -1,2 +1,6 @@
 # Space-Battle
-Um jogo simples feito em javascript em que o seu objetivo é fazer o máximo de pontos atirando em naves inimigas pelo espaço! 
+Destrua as naves inimigas em uma batalha espacial neste pequeno jogo escrito em Javascript!
+
+> Use A e W para mover sua nave.
+
+![Space Battle](https://github.com/N3aar/Space-Battle/blob/main/assets/logo.png)
